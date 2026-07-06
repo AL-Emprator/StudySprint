@@ -1,0 +1,15 @@
+/* Globale CSS-Einstellungen für StudySprint */
+
+/* Reset: Browser-Standardwerte zurücksetzen */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Grundschrift und Hintergrundfarbe für die gesamte App */
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f3f4f6;
+  color: #1f2937;
+}

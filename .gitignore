@@ -1,0 +1,18 @@
+# Node
+node_modules/
+frontend-vue/node_modules/
+frontend-vue/dist/
+
+# Laravel
+backend-app/vendor/
+backend-app/.env
+backend-app/storage/*.key
+backend-app/storage/logs/*
+backend-app/bootstrap/cache/*
+
+# Allgemein
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

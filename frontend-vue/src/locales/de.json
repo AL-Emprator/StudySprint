@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "services": "Leistungen",
+    "howWeWork": "Arbeitsweise",
+    "security": "Sicherheit",
+    "pricing": "Preise",
+    "portfolio": "Portfolio",
+    "login": "Anmelden",
+    "startProject": "Projekt starten"
+  },
+  "hero": {
+    "title": "Die Zukunft des Business gestalten.",
+    "subtext": "Premium KI-Engineering, skalierbare agentische Systeme und Enterprise-Webanwendungen für maximale Performance und Sicherheit.",
+    "cta": "Projekt starten",
+    "explore": "Leistungen entdecken"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "items": {
+      "webDev": "Website-Entwicklung",
+      "webApp": "Web-App-Entwicklung",
+      "ios": "iOS-App-Entwicklung",
+      "android": "Android-Entwicklung",
+      "desktop": "Desktop-Entwicklung",
+      "aiAgent": "KI-Agenten-Entwicklung",
+      "agentic": "Agentische KI-Systeme",
+      "workflow": "Workflow-Automatisierung",
+      "aiAuto": "KI-Automatisierung",
+      "internal": "Interne Tools",
+      "api": "API-Engineering",
+      "ecommerce": "E-Commerce-Lösungen",
+      "security": "Sicherheits-Engineering",
+      "sla": "Wartung & Wachstum"
+    },
+    "learnMore": "Mehr erfahren"
+  },
+  "howWeWork": {
+    "title": "Unsere Arbeitsweise"
+  },
+  "security": {
+    "title": "Sicherheit zuerst"
+  },
+  "pricing": {
+    "title": "Transparente Preise",
+    "blueprint": "Entdeckung & Blueprint",
+    "custom": "Individual-Entwicklung",
+    "sla": "SLA & Wartung",
+    "popular": "Am beliebtesten",
+    "ctaStart": "Entdeckung starten",
+    "ctaEstimate": "Angebot anfragen",
+    "ctaSla": "SLA-Optionen ansehen",
+    "fixed": "Festpreis",
+    "perProject": "Pro Projekt",
+    "monthly": "Monatlich"
+  },
+  "contact": {
+    "title": "Ihr Projekt starten",
+    "send": "Nachricht senden"
+  },
+  "cookie": {
+    "text": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  },
+  "footer": {
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "imprint": "Impressum"
+  },
+  "auth": {
+    "google": "Mit Google anmelden",
+    "welcome": "Willkommen bei ZYNARA"
+  },
+  "portal": {
+    "dashboard": "Übersicht",
+    "projects": "Projekte",
+    "payments": "Zahlungen",
+    "files": "Dateien",
+    "messages": "Nachrichten",
+    "profile": "Profil",
+    "security": "Sicherheit"
+  }
+}

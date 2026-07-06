@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "services": "Services",
+    "howWeWork": "How We Work",
+    "security": "Security",
+    "pricing": "Pricing",
+    "portfolio": "Portfolio",
+    "login": "Log in",
+    "startProject": "Start Project"
+  },
+  "hero": {
+    "title": "Architecting the Future of Business.",
+    "subtext": "Premium AI engineering, scalable agentic systems, and enterprise web applications for maximum performance and security.",
+    "cta": "Start a Project",
+    "explore": "Explore Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "webDev": "Website Development",
+      "webApp": "Web App Development",
+      "ios": "iOS App Development",
+      "android": "Android App Development",
+      "desktop": "Desktop App Development",
+      "aiAgent": "AI Agent Development",
+      "agentic": "Agentic AI Systems",
+      "workflow": "Workflow Automation",
+      "aiAuto": "AI-Powered Automation",
+      "internal": "Internal Tools & Dashboards",
+      "api": "API & Integration Engineering",
+      "ecommerce": "E-Commerce Solutions",
+      "security": "Security & Compliance",
+      "sla": "SLA Maintenance & Growth"
+    },
+    "learnMore": "Learn more"
+  },
+  "howWeWork": {
+    "title": "How We Work"
+  },
+  "security": {
+    "title": "Security First"
+  },
+  "pricing": {
+    "title": "Transparent Pricing",
+    "blueprint": "Discovery & Blueprint",
+    "custom": "Custom Engineering",
+    "sla": "SLA & Maintenance",
+    "popular": "Most Common",
+    "ctaStart": "Start Discovery",
+    "ctaEstimate": "Request Estimate",
+    "ctaSla": "View SLA Options",
+    "fixed": "Fixed Fee",
+    "perProject": "Per Project",
+    "monthly": "Monthly"
+  },
+  "contact": {
+    "title": "Start Your Project",
+    "send": "Send Message"
+  },
+  "cookie": {
+    "text": "We use cookies to enhance your experience.",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "imprint": "Imprint"
+  },
+  "auth": {
+    "google": "Sign in with Google",
+    "welcome": "Welcome to ZYNARA"
+  },
+  "portal": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "payments": "Payments",
+    "files": "Files",
+    "messages": "Messages",
+    "profile": "Profile",
+    "security": "Security"
+  }
+}
